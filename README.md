@@ -8,7 +8,7 @@ To download all the layers using git repo application:
 _repo init -u https://github.com/teodaria/MP1-audiobox-manifest.git_
 _repo sync_
 
-Further information available in the (Quick Start Guide)[]
+Further information available in the [Quick Start Guide](https://github.com/teodaria/STM32MP1-AudioBox/wiki/Quick-Start-guide)
 
 
  
